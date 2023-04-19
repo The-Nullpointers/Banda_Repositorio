@@ -1,3 +1,4 @@
+
 body{ 
     background: linear-gradient(93deg, rgba(0,0,0,1) 27%, rgba(160,20,11,1) 48%, rgba(0,0,0,1) 74%) !important;
 }
@@ -42,6 +43,7 @@ li {
     text-align: center;
     padding: 10px;
 }
+
 div.title-one{
     display: flex;
     justify-content: center;
@@ -87,3 +89,4 @@ p{
     margin-top: 60px;
     margin-bottom: 800px;
 }
+
